@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;MusicPlayer_Mini-Project-main&apos; to &apos;mini&apos;" description="Move &apos;MusicPlayer_Mini-Project-main&apos; to &apos;mini&apos;" destination="/mini" element1="src/MusicPlayer_Mini-Project-main" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1610534333628" updateReferences="true"/>
+</session>

@@ -1,0 +1,14 @@
+package practice;
+
+public class ROUND {
+public static void main(String[] args) {
+	double n =3.75;
+//	long res =Math.round(n);
+//	System.out.println(res);
+	
+	
+	System.out.println(Math.round(n*10)/10.0);
+	double res2 =Math.round(n*10)/10.0;
+	System.out.println(res2);
+}
+}

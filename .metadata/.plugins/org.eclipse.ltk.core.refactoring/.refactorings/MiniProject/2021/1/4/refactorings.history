@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;simp.myutil.Myutil&apos; to &apos;MyUtil&apos;&#x0D;&#x0A;- Original project: &apos;MiniProject&apos;&#x0D;&#x0A;- Original element: &apos;simp.myutil.Myutil&apos;&#x0D;&#x0A;- Renamed element: &apos;simp.myutil.MyUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Myutil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;simp.myutil{Myutil.java[Myutil" matchStrategy="1" name="MyUtil" qualified="false" references="true" similarDeclarations="false" stamp="1611051114168" textual="false" version="1.0"/>
+</session>
